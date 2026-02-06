@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://radk61.github.io/vodniye-istochniki/sitemap.xml
